@@ -1,6 +1,6 @@
-# Store Analysis Project
+# Store Analysis (ElectroHub)
 
-This repository contains a Power BI project analyzing store data to provide insights into sales, profits, and customer trends. The project uses the `Store Data.xlsx` dataset to create visual dashboards, offering actionable insights for business decision-making.
+This repository contains a Power BI project analyzing store data for ElectroHub. The project provides insights into sales, profits, and customer trends using interactive dashboards created in Power BI. 
 
 ---
 
@@ -30,17 +30,16 @@ This repository contains a Power BI project analyzing store data to provide insi
 ## 🖼️ Screenshots
 
 ### 1. **Sales Overview Dashboard**
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview](https://raw.githubusercontent.com/aayushh-30/Data-Analyis-using-PowerBI/main/Store%20Analysis%20(ElectroHub)/screenshots/Sales_Overview.png)
 
 ### 2. **Profit Analysis Dashboard**
-![Profit Analysis](screenshots/profit_analysis.png)
+![Profit Analysis](https://raw.githubusercontent.com/aayushh-30/Data-Analyis-using-PowerBI/main/Store%20Analysis%20(ElectroHub)/screenshots/Profit_Analysis.png)
 
 ### 3. **Customer Segmentation Dashboard**
-![Customer Segmentation](screenshots/customer_segmentation.png)
+![Customer Segmentation](https://raw.githubusercontent.com/aayushh-30/Data-Analyis-using-PowerBI/main/Store%20Analysis%20(ElectroHub)/screenshots/Customer_Segmentation.png)
 
 ### 4. **Regional Analysis Dashboard**
-![Regional Analysis](screenshots/regional_analysis.png)
-
+![Regional Analysis](https://raw.githubusercontent.com/aayushh-30/Data-Analyis-using-PowerBI/main/Store%20Analysis%20(ElectroHub)/screenshots/Regional_Analysis.png)
 
 ---
 
@@ -48,14 +47,16 @@ This repository contains a Power BI project analyzing store data to provide insi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/store-analysis-project.git
+   git clone https://github.com/aayushh-30/Data-Analyis-using-PowerBI.git
    ```
 
-2. Open the Power BI file (`Store Analysis Project.pbix`) in Power BI Desktop.
+2. Navigate to the folder `Store Analysis (ElectroHub)`.
 
-3. Explore the dashboards and visualizations.
+3. Open the Power BI file (`Store Analysis Project.pbix`) in Power BI Desktop.
 
-4. For raw data, refer to `Store Data.xlsx`.
+4. Explore the dashboards and visualizations.
+
+5. For raw data, refer to `Store Data.xlsx`.
 
 ---
 
@@ -63,8 +64,7 @@ This repository contains a Power BI project analyzing store data to provide insi
 
 For any queries or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: [aayushh-30](https://github.com/aayushh-30)
 
 ---
 
