@@ -73,7 +73,7 @@ If you're new to Power BI, here are some resources to get started:
 Feel free to reach out if you have any questions or suggestions:
 
 - **GitHub**: [aayushh-30](https://github.com/aayushh-30)
-- **Email**: [Your Email Address]
+- **Email**: [ayushkumarkarmi30@gmail.com]
 
 ---
 
