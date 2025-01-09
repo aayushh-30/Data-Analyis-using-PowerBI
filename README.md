@@ -13,23 +13,7 @@ Each project in this repository is organized into its own folder and typically i
 - **README File**: A detailed explanation of the project, objectives, and insights gained.
 - **Screenshots Folder**: Visual previews of the dashboards created.
 
----
-
-## 📊 Featured Projects
-
-### 1. **Store Analysis (ElectroHub)**
-   - **Objective**: Analyze store data to gain insights into sales, profit trends, and customer behavior.
-   - **Key Features**:
-     - Sales analysis by product category and region.
-     - Profit and loss trends.
-     - Customer segmentation.
-     - Interactive dashboards for decision-making.
-   - **Folder**: [Store Analysis (ElectroHub)](https://github.com/aayushh-30/Data-Analyis-using-PowerBI/tree/main/Store%20Analysis%20(ElectroHub))
-
-### 2. **[Add Your Next Project Here]**
-   - **Objective**: Brief description of the next project.
-   - **Key Features**: Include highlights.
-
+## Atleast a Project will be Uploaded every Week
 ---
 
 ## 🛠️ Tools Used
