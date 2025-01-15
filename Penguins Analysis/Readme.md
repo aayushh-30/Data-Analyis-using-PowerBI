@@ -24,18 +24,7 @@ Key insights derived from the data include:
 ## Tools Used
 - **Power BI**: For visualization and interactive analysis.
 - **Python**: For data preprocessing and statistical calculations.
-
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/penguin-size-analysis.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd penguin-size-analysis
-   ```
-3. View or update the analysis using Power BI and Python.
-
+  
 ## Future Improvements
 - Incorporate machine learning to predict species based on size attributes.
 - Add geographical and environmental factors for deeper insights.
